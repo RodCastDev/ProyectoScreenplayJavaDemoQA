@@ -28,3 +28,5 @@ l
 <src/main/java/co/com/screenplay/project/utils/DataFaker.java,4\a\4a941591d9d99a355ecca1337c39d00425c927f5
 ‚
 Rsrc/main/java/co/com/screenplay/project/questions/ValidateTextBtnElementsList.java,b\c\bc06e4f17075f049a22aebc1096bdcff6f43e590
+;
+Jenkinsfile,0\c\0c2c5c506cef0ed2d3ad2b7e45e97980b66f5520

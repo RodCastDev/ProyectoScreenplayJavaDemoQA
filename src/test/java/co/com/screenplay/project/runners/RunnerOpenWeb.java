@@ -7,8 +7,8 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources/features",
         glue = "co.com.screenplay.project.stepdefinitions",
-        snippets = CucumberOptions.SnippetType.CAMELCASE,
-        tags = "@successful"
+        snippets = CucumberOptions.SnippetType.CAMELCASE
+//        tags = "@successful"
 )
 
 public class RunnerOpenWeb {
