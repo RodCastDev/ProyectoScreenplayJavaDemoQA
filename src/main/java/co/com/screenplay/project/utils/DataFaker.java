@@ -13,5 +13,4 @@ public class DataFaker {
     public static String fackeNumberRageOneAndNine(){
         return String.valueOf(faker.number().numberBetween(1,7));
     }
-
 }
